@@ -1,0 +1,49 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.form-container {
+  margin-bottom: 20px;
+}
+
+.form-container form {
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.form-container input {
+  margin: 10px 0;
+  padding: 8px;
+  font-size: 14px;
+}
+
+.form-container button {
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.form-container button:hover {
+  background-color: #45a049;
+}
+
+.year-list {
+  margin-top: 20px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.year-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.year-list li {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
