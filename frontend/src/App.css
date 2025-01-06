@@ -8,7 +8,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  height: 240vh;
   text-align: center;
   flex-direction: column;
   overflow: auto;
@@ -128,4 +128,4 @@ body {
     font-size: 12px;
     padding: 4px;
   }
-}
+}   
